@@ -11,6 +11,7 @@ app_license = "MIT"
 # include js, css files in header of desk.html
 # app_include_css = "/assets/card_number_customizations/css/card_number_customizations.css"
 # app_include_js = "/assets/card_number_customizations/js/card_number_customizations.js"
+app_include_js = "/assets/card_number_customizations/js/custom.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/card_number_customizations/css/card_number_customizations.css"
